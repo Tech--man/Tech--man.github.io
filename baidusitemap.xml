@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+    
+  <url>
+    <loc>http://yoursite.com/2017/02/10/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98-1/</loc>
+    <lastmod>2017-02-10T03:14:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>标签测试文章</title>
+        <pubTime>2017-02-10T02:50:02.000Z</pubTime>
+        
+        <tag>Testing</tag>
+         
+        <tag>Another Tag</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/02/10/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</loc>
+    <lastmod>2017-02-10T02:50:09.000Z</lastmod>
+    <data>
+        <display>
+        <title>文章标题</title>
+        <pubTime>2017-02-10T02:49:02.000Z</pubTime>
+        
+        <tag>杂</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/02/09/hello-world/</loc>
+    <lastmod>2017-02-09T08:33:44.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-02-09T08:33:44.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
